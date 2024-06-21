@@ -1,0 +1,21 @@
+# Core dependencies
+numpy==1.25.2
+pandas==2.0.3
+pandas-datareader==0.10.0
+
+matplotlib==3.7.1
+matplotlib-inline==0.1.7
+matplotlib-venn==0.11.10
+
+
+
+# Machine learning libraries
+scikit-image==0.19.3
+scikit-learn==1.2.2
+tensorflow-datasets==4.9.4
+
+# Additional libraries
+requests==2.31.0
+streamlit_lottie==0.0.2
+streamlit==1.35.0
+
